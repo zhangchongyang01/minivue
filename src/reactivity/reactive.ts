@@ -1,4 +1,4 @@
-import { track, effect } from "./effect";
+import { track,trigger, effect } from "./effect";
 
 export function reactive(raw){
   return new Proxy(raw,{
