@@ -1,1 +1,56 @@
 # minivue
+
+vue3的mini版实践。跟着崔大一起学习。
+
+- [ ] 1.vue3源码结构的介绍
+- [ ] 2.reactivity的核心流程
+- [ ] 3.runtime-core初始化核心流程
+- [ ] 4.runtime-core更新的核心流程
+- [x] 5.set环境-集成jest做单元测试-集成ts
+- [x] 6.实现effect & reactive & 依赖收集 & 触发依赖
+- [x] 7.实现effect返回
+- [x] 8.实现effect.scheduler功能
+- [x] 9.实现effect的stop功能
+- [x] 10.实现readonly功能
+- [x] 11.实现isReactive 和isReadonly
+- [x] 12.优化stop功能
+- [x] 13.实现reactive和readonly嵌套对象转换
+- [ ] 14.实现shallowReadonly功能
+- [ ] 15.实现isProxy功能
+- [ ] 16.实现ref功能
+- [ ] 17.实现isRef和unRef功能
+- [ ] 18.实现proxyRefs功能
+- [ ] 19.实现computed计算属性
+- [ ] 20.实现初始化component主流程
+- [ ] 21.使用rollup打包库
+- [ ] 22.实现初始化element主流程
+- [ ] 23.实现组件代理对象
+- [ ] 24.实现shapeFlags
+- [ ] 25.实现注册事件功能
+- [ ] 26.实现组件props逻辑
+- [ ] 27.实现组件emit功能
+- [ ] 28.实现组件slots功能
+- [ ] 29.实现Fragment和Text类型节点
+- [ ] 30.实现getCurrentInstance
+- [ ] 31.实现provide-inject功能
+- [ ] 32.实现自定义渲染器custom renderer
+- [ ] 33.更新element流程搭建
+- [ ] 34.更新element的props
+- [ ] 35.更新element的children
+- [ ] 36.更新element的children - 双端对比diff算法（1）
+- [ ] 37.更新element的children - 双端对比diff算法（2）
+- [ ] 38.更新element的children - 双端对比diff算法（3）
+- [ ] 39.学习尤大解决bug的处理方式
+- [ ] 40.实现组件更新功能
+- [ ] 41.实现nextTick功能
+- [ ] 42.编译模块概述
+- [ ] 43.实现解析插值功能
+- [ ] 44.实现解析element标签
+- [ ] 45.实现解析text功能
+- [ ] 46.实现解析三种联合类型
+- [ ] 47.parse的实现原理&有限状态机
+- [ ] 48.实现transform功能
+- [ ] 49.实现代码生成string类型
+- [ ] 50.实现代码生成插值类型
+- [ ] 51.实现代码生成三种联合类型
+- [ ] 52.实现编译template成render函数
